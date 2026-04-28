@@ -6,3 +6,5 @@ The only file in here now is a "systemmod.img" modified system.img originally fo
 You will need an EDL tool (I used https://github.com/andybalholm/edl) to flash these to your phone and be familiar with the general process of flashing firmware to phones.
 
 I may write instructions here later (anyone want to help?)
+
+Grab the image here: https://github.com/awnz/N2720hacking/releases/tag/VoLTE
